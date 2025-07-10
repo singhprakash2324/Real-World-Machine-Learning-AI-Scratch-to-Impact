@@ -5,7 +5,7 @@
 This project presents an end-to-end data analysis pipeline for Walmart sales data using Python and MySQL. The goal is to extract actionable business insights such as sales trends, customer behavior, and profit metrics from real-world retail data.
 
 ---
-
+ 
 ## 🔧 Tools & Technologies
 
 - Python 3.x

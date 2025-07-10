@@ -8,24 +8,22 @@ This project presents an end-to-end data analysis pipeline for Walmart sales dat
 
 ## 🔧 Tools & Technologies
 
-- **Python 3.x**
-- **Jupyter Notebook**
-- **MySQL**
-- **Pandas, NumPy**
-- **Matplotlib, Seaborn**
-- **MySQL Connector (Python)**
+- Python 3.x
+- Jupyter Notebook
+- MySQL
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- MySQL Connector (Python)
 
 ---
 
 ## 🗂️ Folder Structure
 
 Walmart_Analysis_Project/
-│
-├── data/ # Raw and cleaned datasets
-├── notebooks/ # Jupyter Notebooks for analysis
-├── outputs/ # Saved charts/figures (optional)
-├── README.md # Project overview and instructions
----
+- |-- data/       # Raw and cleaned dataset
+- |--notebook/    # Jupyter Notebook for analysis
+- |--outputs/     #Saved charts/figures
+- |--README.md    #Project overview ans instructions
 
 ## 📥 Dataset
 

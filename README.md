@@ -1,4 +1,30 @@
+# 🛒 Walmart Data Analysis Project
 
+## 📊 Overview
+
+This project presents an end-to-end data analysis pipeline for Walmart sales data using Python and MySQL. The goal is to extract actionable business insights such as sales trends, customer behavior, and profit metrics from real-world retail data.
+
+---
+
+## 🔧 Tools & Technologies
+
+- **Python 3.x**
+- **Jupyter Notebook**
+- **MySQL**
+- **Pandas, NumPy**
+- **Matplotlib, Seaborn**
+- **MySQL Connector (Python)**
+
+---
+
+## 🗂️ Folder Structure
+
+Walmart_Analysis_Project/
+│
+├── data/ # Raw and cleaned datasets
+├── notebooks/ # Jupyter Notebooks for analysis
+├── outputs/ # Saved charts/figures (optional)
+├── README.md # Project overview and instructions
 ---
 
 ## 📥 Dataset
@@ -60,7 +86,17 @@
 ## 💾 How to Run
 
 1. Clone this repository
-2. Install dependencies via `pip install -r requirements.txt`
+2. Install dependencies via `pip install pandas numpy matplotlib seaborn mysql-connector-python`
 3. Run Jupyter Notebook:  
    ```bash
    jupyter notebook
+
+📌 Credits
+Dataset by: Najir0123 on Kaggle
+Project created as part of a guided data analysis curriculum
+
+
+Author
+Prakash Singh
+B.Tech in AI & ML
+GitHub: [your_github_username]
